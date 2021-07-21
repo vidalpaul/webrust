@@ -1,0 +1,1 @@
+Code and notes I wrote while studying Ric Messier's Rust Web Programming: A hands-on guide to developing fast and secure web Apps with the Rust programming Sprache
